@@ -1,0 +1,27 @@
+Student Dataset:
+    Name  Age  Marks Department
+0  Kiran   23     85        MCA
+1  Rahul   22     65        BCA
+2  Priya   21     92        MCA
+3  Sneha   24     48        BBA
+4  Arjun   22     78        MCA
+
+Students who scored above 80:
+    Name  Age  Marks Department
+0  Kiran   23     85        MCA
+2  Priya   21     92        MCA
+
+Students from MCA department:
+    Name  Age  Marks Department
+0  Kiran   23     85        MCA
+2  Priya   21     92        MCA
+4  Arjun   22     78        MCA
+
+Students with marks above 75 and age above 21:
+    Name  Age  Marks Department
+0  Kiran   23     85        MCA
+4  Arjun   22     78        MCA
+
+Total students scoring above 80: 2
+Total MCA students: 3
+Total students matching both conditions: 2
